@@ -1,2 +1,2 @@
 # REGISTER-FORM-
-Basic HTML CSS Project for beginners
+Basic HTML CSS  JS Project for beginners
